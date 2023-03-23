@@ -1,0 +1,2 @@
+- https://www.geeksforgeeks.org/how-to-install-make-on-ubuntu/
+- https://www.gnu.org/software/make/manual/html_node/
