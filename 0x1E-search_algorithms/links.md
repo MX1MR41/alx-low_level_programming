@@ -1,1 +1,8 @@
-
+- https://en.wikipedia.org/wiki/Search_algorithm
+- https://en.wikipedia.org/wiki/Search_algorithm
+- https://en.wikipedia.org/wiki/Linear_search
+- https://en.wikipedia.org/wiki/Binary_search_algorithm
+- https://en.wikipedia.org/wiki/Jump_search
+- https://en.wikipedia.org/wiki/Interpolation_search
+- https://en.wikipedia.org/wiki/Exponential_search
+- https://en.wikipedia.org/wiki/Skip_list
